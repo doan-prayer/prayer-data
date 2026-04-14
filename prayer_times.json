@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "updated_at": "2026-04-14",
   "notes": "Initial version",
   "days": [
@@ -943,7 +943,7 @@
       "date": "14/04",
       "fajr": "04:29 ص",
       "sunrise": "05:33 ص",
-      "dhuhr": "09:00 ص",
+      "dhuhr": "11:49 ص",
       "asr": "03:02 م",
       "maghrib": "06:02 م",
       "isha": "07:10 م"
